@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "c:\\Users\\mikelele\\Desktop\\Projects\\udemy-ml-ds-python\\venv\\Lib\\site-packages"
+    ]
+}
